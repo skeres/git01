@@ -16,11 +16,15 @@ $ git cherry-pick <commit-ref>..<commit-ref>”
 add tag on current branch and last commit then push on remote
 ```
 git tag -a v1.0.0 -m "Releasing version v1.0.0"
+```
+```
 git push origin v1.0.0 
 ```
 add tag on any commit
 ```
 git tag v0.0.0 6b76e7ebc04933c411343a5044a5e621b51baaba
+```
+```
 git push origin v0.0.0
 ```
 remove tag locally
