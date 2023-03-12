@@ -21,6 +21,11 @@ commit 1415138c8db5ad35369433f1555a1112e970e716
 Author: Stephane KERESZTES <stkeresztes-ext@airfrance.fr>
 Date:   Fri Aug 26 11:36:10 2022 +0200
 
+
+git checkout bugfix/projet-2292-bis
+git cherry-pick a6fc02b787b60551cef11574227b31e933e6d41b 
+
+
 ```
 
 ## To be completed
