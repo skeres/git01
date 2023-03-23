@@ -31,7 +31,7 @@ remove tag locally
 ```
 git tag -d v1.0.0
 ```
-remove on remote branch
+remove tag on a remote branch
 ```
 git push origin --delete v1.0.0
 ```
