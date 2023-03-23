@@ -6,9 +6,10 @@
 ```
 git cherry-pick <commit-ref> 
 ```
-```
+
 cherry pick range of commit
-$ git cherry-pick <commit-ref>..<commit-ref>”
+```
+git cherry-pick <commit-ref>..<commit-ref>”
 ```
 
 
